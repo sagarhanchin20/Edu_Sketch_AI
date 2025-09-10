@@ -38,7 +38,7 @@ Google AI Studio
 
 2) View panels vertically (scroll)
 
-## Live Project 🔗
+## Project on Google AI Studio 🔗
 https://ai.studio/apps/drive/15FjzDR9THd_hGKgMAVCJmBOskmzFAL2l
 
 ## Video Demo 🎥
